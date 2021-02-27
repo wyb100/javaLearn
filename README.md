@@ -1,1 +1,3 @@
-# javaLearn
+### JavaLearn
+  * algorithm
+  * problem
